@@ -141,5 +141,5 @@ if __name__ == '__main__':
     get_nifty()
     #print(symbols)
 	#Below code is to get expiry for All other symbols
-    for symbol in symbols:
-        get_options_chain_stocks(symbol)
+    #for symbol in symbols:
+        #get_options_chain_stocks(symbol)
